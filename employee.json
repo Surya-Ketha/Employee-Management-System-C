@@ -1,0 +1,28 @@
+{
+  "employees":[
+    {
+      "employee_ID":1000,
+      "employee_details":{
+        "name":"KGN Surya",
+        "age":19,
+        "contact_details":{
+          "mobile_number":"9876543210",
+          "email":"kgn-surya@maven-silicon.com",
+          "address":"eluru dfui"
+        }
+      }
+    },
+    {
+      "employee_ID":1001,
+      "employee_details":{
+        "name":"sailaja",
+        "age":18,
+        "contact_details":{
+          "mobile_number":"9876543210",
+          "email":"sailaja@maven-silicon.com",
+          "address":"bengaluru"
+        }
+      }
+    }
+  ]
+}

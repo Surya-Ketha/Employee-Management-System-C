@@ -1,0 +1,6 @@
+build/
+
+employee_app
+employee_app2
+
+*.o
